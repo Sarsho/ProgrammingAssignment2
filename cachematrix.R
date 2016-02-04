@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## I need to put some general comments here, or put the below comments here and some
+## explicit information below
 
 ## This function takes a list of otherwise defined matrix (invertible) and saves it 
 ## to someplace I need to better understand. I know that the assignment operator
